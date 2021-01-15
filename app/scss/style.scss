@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    &__list {
+        margin: 0;
+    }
+}
+
+.test {
+    display: grid;
+}
+
+body {
+    background-color: #cd1cd1;
+}
